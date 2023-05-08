@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Capa_2" data-name="Capa 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 422.15 322.89">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: -.11em;
+      }
+
+      .cls-2 {
+        letter-spacing: -.01em;
+      }
+
+      .cls-3 {
+        font-family: Lato-BlackItalic, Lato;
+        font-size: 210.73px;
+        font-weight: 800;
+      }
+
+      .cls-3, .cls-4, .cls-5 {
+        fill: #00686e;
+        font-style: italic;
+      }
+
+      .cls-4 {
+        font-size: 108.29px;
+      }
+
+      .cls-4, .cls-5 {
+        font-family: Lato-MediumItalic, Lato;
+        font-weight: 500;
+      }
+
+      .cls-6 {
+        letter-spacing: 0em;
+      }
+
+      .cls-5 {
+        font-size: 77.42px;
+      }
+    </style>
+  </defs>
+  <g id="Capa_1-2" data-name="Capa 1">
+    <g>
+      <text class="cls-5" transform="translate(0 66.51)"><tspan class="cls-1" x="0" y="0">T</tspan><tspan x="34.11" y="0">enemos una</tspan></text>
+      <text class="cls-3" transform="translate(10.91 204.51)"><tspan x="0" y="0">g</tspan><tspan class="cls-2" x="109.37" y="0">r</tspan><tspan x="183.23" y="0">an</tspan></text>
+      <text class="cls-4" transform="translate(101.03 293.6)"><tspan x="0" y="0">n</tspan><tspan class="cls-6" x="57.66" y="0">o</tspan><tspan x="113" y="0">ticia</tspan></text>
+    </g>
+  </g>
+</svg>
